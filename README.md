@@ -13,5 +13,7 @@ SO THAT our own site is optimized for search engines
 Refactored by Mary Margaret Taylor to structure semantic HTML elements and consolidated CSS selectors.
 
 ### Screenshot
+![deployment](Screenshot/Horisen.png)
 
-! [deployment](Screenshot/Horisen.png)
+#### Deployment
+[Horisen](mmtaylor7.github.io/code-refactor-challenge-1/)
