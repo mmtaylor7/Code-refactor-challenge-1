@@ -16,4 +16,4 @@ Refactored by Mary Margaret Taylor to structure semantic HTML elements and conso
 ![deployment](Screenshot/Horisen.png)
 
 #### Deployment
-[Horisen](mmtaylor7.github.io/code-refactor-challenge-1/)
+[Horisen](https://mmtaylor7.github.io/code-refactor-challenge-1/)
